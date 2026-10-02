@@ -1,0 +1,8 @@
+torch==2.6.0
+jax==0.4.35
+jaxlib==0.4.34
+numpy==2.4.6
+matplotlib==3.10.8
+tqdm==4.70.0
+jupyterlab==4.6.3
+ipykernel==6.29.5
