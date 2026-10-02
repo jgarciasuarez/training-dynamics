@@ -78,7 +78,7 @@ Then run `notebooks/create_paper_images.ipynb` directly.
 If you use this code or the preprint, please cite:
 
 ```bibtex
-@misc{garcia_suarez_2026_23099714,
+@misc{garcia_suarez2026active,
   author       = {Garc{\'i}a Su{\'a}rez, Joaqu{\'i}n},
   title        = {{Active-Subspace Dynamics of Gradient Descent: A Geometric
                    Account of Feature Learning and Weight Decay}},
